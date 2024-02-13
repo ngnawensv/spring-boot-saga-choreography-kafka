@@ -1,0 +1,11 @@
+com\stock\svc\StockSvcApplication.class
+com\stock\svc\dto\DeliveryEvent.class
+com\stock\svc\entity\WareHouse.class
+com\stock\svc\repository\StockRepository.class
+com\stock\svc\dto\PaymentEvent.class
+com\stock\svc\dto\CustomerOrder.class
+com\stock\svc\service\impl\StockServiceImpl.class
+com\stock\svc\dto\Stock.class
+com\stock\svc\controller\StockController.class
+com\stock\svc\entity\WareHouse$WareHouseBuilder.class
+com\stock\svc\service\StockService.class
