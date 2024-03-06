@@ -3,12 +3,10 @@ com\payment\svc\dto\Stock$StockBuilder.class
 com\payment\svc\controller\PaymentController.class
 com\payment\svc\dto\OrderEvent.class
 com\payment\svc\dto\OrderDto.class
-com\payment\svc\dto\PaymentEvent$PaymentEventBuilder.class
 com\payment\svc\entity\Payment$PaymentBuilder.class
 com\payment\svc\PaymentSvcApplication.class
 com\payment\svc\dto\Stock.class
 com\payment\svc\service\PaymentService.class
-com\payment\svc\dto\PaymentEvent.class
 com\payment\svc\dto\OrderEvent$OrderEventBuilder.class
 com\payment\svc\service\impl\PaymentServiceImpl.class
 com\payment\svc\entity\Payment.class

@@ -5,6 +5,5 @@ C:\Users\NGNAWEN\IdeaProjects\spring-boot-saga-choreography-kafka\payment-svc\sr
 C:\Users\NGNAWEN\IdeaProjects\spring-boot-saga-choreography-kafka\payment-svc\src\main\java\com\payment\svc\repository\PaymentRepository.java
 C:\Users\NGNAWEN\IdeaProjects\spring-boot-saga-choreography-kafka\payment-svc\src\main\java\com\payment\svc\controller\PaymentController.java
 C:\Users\NGNAWEN\IdeaProjects\spring-boot-saga-choreography-kafka\payment-svc\src\main\java\com\payment\svc\service\impl\PaymentServiceImpl.java
-C:\Users\NGNAWEN\IdeaProjects\spring-boot-saga-choreography-kafka\payment-svc\src\main\java\com\payment\svc\dto\PaymentEvent.java
 C:\Users\NGNAWEN\IdeaProjects\spring-boot-saga-choreography-kafka\payment-svc\src\main\java\com\payment\svc\dto\OrderEvent.java
 C:\Users\NGNAWEN\IdeaProjects\spring-boot-saga-choreography-kafka\payment-svc\src\main\java\com\payment\svc\PaymentSvcApplication.java
